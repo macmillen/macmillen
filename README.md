@@ -3,7 +3,7 @@
 **Senior Frontend & Full-Stack Engineer** based in **Berlin, Germany** 🇩🇪  
 6+ years of experience architecting high-performance web applications, SaaS platforms, and design systems across Berlin startups (**ToucanTix**, **Giant Monkey**, **lettranslate.com** [Founder], **Passbase**).
 
-- 🌐 **Portfolio:** [milan-jaritz.vercel.app](https://milan-jaritz.vercel.app)
+- 🌐 **Portfolio:** [personal-website-five-rho.vercel.app](https://personal-website-five-rho.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/milan-jaritz](https://www.linkedin.com/in/milan-jaritz/)
 - 📫 **Contact:** [milan.jaritz@gmail.com](mailto:milan.jaritz@gmail.com)
 
